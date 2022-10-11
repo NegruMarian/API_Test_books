@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/API_test_simple_books.iml" filepath="$PROJECT_DIR$/.idea/API_test_simple_books.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../final_project_Tdd_BDD/.idea/final_project_Tdd_BDD.iml" filepath="$PROJECT_DIR$/../../final_project_Tdd_BDD/.idea/final_project_Tdd_BDD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../siteuri_in__teste/saucedemo/.idea/saucedemo.iml" filepath="$PROJECT_DIR$/../../siteuri_in__teste/saucedemo/.idea/saucedemo.iml" />
+    </modules>
+  </component>
+</project>
